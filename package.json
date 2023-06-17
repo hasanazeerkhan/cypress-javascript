@@ -1,0 +1,26 @@
+{
+  "name": "cypress-javascript",
+  "version": "1.0.0",
+  "description": "A repository containing a basic Cypress test suite for automated web application testing. Start your Cypress testing journey with simple and easy-to-understand test cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanazeerkhan/cypress-javascript.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Cypress"
+  ],
+  "author": "Mohammed Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanazeerkhan/cypress-javascript/issues"
+  },
+  "homepage": "https://github.com/hasanazeerkhan/cypress-javascript#readme",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  }
+}
