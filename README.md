@@ -14,6 +14,11 @@
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasanazeerkhan/)
 
+## Technologies used
+
+- [JavaScript](https://www.javascript.com/)
+- [Cypress](https://www.cypress.io/)
+
 ## Features
 
 - **Simple Test Scenarios:** The test suite includes simple test scenarios that cover common functionalities of web applications.
