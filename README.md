@@ -29,12 +29,14 @@ Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasa
 ## Getting Started
 
 To get started with this test suite, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install Cypress using npm: `npm install cypress`.
-3. Open Cypress with the command: `npx cypress open`.
-4. Select the test case you want to run from the Cypress test runner.
-5. Observe the test execution and check the results.
+1. Download node from [this](https://nodejs.org/en/download/package-manager) website
+2. Once downloaded install it to your local machine
+3. Verify the installation by using the command `node -v` in terminal
+4. Clone the repository to your local machine.
+5. Install Cypress using npm: `npm install cypress`.
+6. Open Cypress with the command: `npx cypress open`.
+7. Select the test case you want to run from the Cypress test runner.
+8. Observe the test execution and check the results.
 
 Feel free to explore, modify, and enhance the test suite according to your testing needs. This repository aims to provide a foundation for Cypress testing and encourage collaboration within the testing community.
 
